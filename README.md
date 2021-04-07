@@ -29,9 +29,9 @@ El servicio myjson permite almacenar información en formato JSON para poder acc
 
 | Método HTTP | URL                                | Descripción                                                                                                                                                                                          |
 |-------------|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| POST        | https://myjson.com/api/bins        | Crea un almacén nuevo para nuestra aplicación. Devuelve la URL que debemos utilizar como endpoint para guardar la información de nuestra aplicación. Por ejemplo: http://myjson.com/api/bins/xxxxx |
-| GET         | https://myjson.com/api/bins/xxxxx (la creada con el método POST) | Lee la información guardada en el endpoint creado                                                                                                                                                    |
-| PUT         | https://myjson.com/api/bins/xxxxx (la creada con el método POST) | Sobrescribe la información guardada en el endpoint creado con el JSON que se le pasa en el campo "body" de la petición HTTP                                                                                             |
+| POST        | https://myjson.dit.upm.es/api/bins       | Crea un almacén nuevo para nuestra aplicación. Devuelve la URL que debemos utilizar como endpoint para guardar la información de nuestra aplicación. Por ejemplo: https://myjson.dit.upm.es/api/bins/xxxxx |
+| GET         | https://myjson.dit.upm.es/api/bins/xxxxx (la creada con el método POST) | Lee la información guardada en el endpoint creado                                                                                                                                                    |
+| PUT         | https://myjson.dit.upm.es/api/bins/xxxxx (la creada con el método POST) | Sobrescribe la información guardada en el endpoint creado con el JSON que se le pasa en el campo "body" de la petición HTTP                                                                                             |
 
 ## Descargar el código del proyecto
 
