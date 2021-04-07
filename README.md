@@ -4,7 +4,7 @@
 
 <br/><br/><br/>
 # Módulo 7: Excepciones, Promesas, HTTP, AJAX y jQuery - Entrega P2P: MVC Películas AJAX
-Versión: 24 de Mayo de 2020
+Versión: 7 de Abril de 2021
 
 ## Objetivos
 
@@ -13,7 +13,7 @@ Versión: 24 de Mayo de 2020
 
 ## Descripción de la práctica
 
-Esta entrega es una modificación de la entrega P2P del módulo 4 (MVC películas) en la que se hace uso de la API de myjson (https://myjson.dit.upm.es/) para persistir la base de datos de películas. El resultado obtenido será el mismo que en la entrega del módulo 4, sólo que en lugar de almacenar la información de las películas utilizando la API de localStorage del navegador, se almacenará remotamente en el servidor de myjson y estará accesible a través de la API REST que proporciona este servicio.
+Esta entrega es una modificación de la [entrega P2P del módulo 4](https://github.com/ging-moocs/MOOC_html_mod4-MVC_cliente_entrega) (MVC películas) en la que se hace uso de la API de myjson (https://myjson.dit.upm.es/) para persistir la base de datos de películas. El resultado obtenido será el mismo que en la entrega del módulo 4, sólo que en lugar de almacenar la información de las películas utilizando la API de localStorage del navegador, se almacenará remotamente en el servidor de myjson y estará accesible a través de la API REST que proporciona este servicio.
 
 <p align="center">
   <img width="568" height="320" src="https://raw.githubusercontent.com/ging-moocs/MOOC_html_mod7-AJAX_entrega/master/files/enunciado.png">
